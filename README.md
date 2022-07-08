@@ -20,6 +20,10 @@ python3 splines_generator.py --help
 
 * Run splines generator
 ```
-python3 splines_generator --filepath /path/to/image/file.jpg 
+python3 splines_generator --filepath /path/to/images/file.jpg 
 ```
-See command output for app instruction.
+OR
+```
+python3 splines_generator --filepath /path/to/images/directory 
+```
+See command output for app instructions.
